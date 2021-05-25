@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #021957 !important;    
+}
+
+.match {
+    width: 250px;
+    height: 200px;
+    background-color: #021957;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: #e8ecf8;
+}
+
+.card {
+    color: #021957;
+}
+
+.card .card-image {
+    padding: 10px;
+}
+
+.card .card-image img{
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+}
+
+
+.teams{
+    text-align: justify;
+}
+.teams img{
+    margin-top: 20px;
+    width: 100px;
+}
+
+#loading {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.home-container {
+    text-align: -webkit-center;
+}
+
